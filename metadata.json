@@ -1,0 +1,7 @@
+{
+  "name": "ArogyaAI – Smart Rural Healthcare App",
+  "description": "An AI-driven telemedicine platform designed to bridge the healthcare gap for rural patients, providing real-time online consultations, AI-based disease screening, and local pharmacy integration in various Indian languages.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
